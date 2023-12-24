@@ -1,0 +1,426 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\vlad1\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Temp\\obj\\\\Assembly-CSharp\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vlad1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.csproj"
+              },
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.Editor.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.Editor.csproj"
+              },
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.Addressables.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.Addressables.csproj"
+              },
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj"
+              },
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.DOTween.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.DOTween.csproj"
+              },
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.Linq.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.Linq.csproj"
+              },
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.TextMeshPro.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.TextMeshPro.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.csproj",
+        "projectName": "Tayx.Graphy",
+        "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.csproj",
+        "packagesPath": "C:\\Users\\vlad1\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Temp\\obj\\\\Tayx.Graphy\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vlad1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.Editor.csproj",
+        "projectName": "Tayx.Graphy.Editor",
+        "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.Editor.csproj",
+        "packagesPath": "C:\\Users\\vlad1\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Temp\\obj\\\\Tayx.Graphy.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vlad1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Tayx.Graphy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.Addressables.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.Addressables.csproj",
+        "projectName": "UniTask.Addressables",
+        "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.Addressables.csproj",
+        "packagesPath": "C:\\Users\\vlad1\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Temp\\obj\\\\UniTask.Addressables\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vlad1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj",
+        "projectName": "UniTask",
+        "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj",
+        "packagesPath": "C:\\Users\\vlad1\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Temp\\obj\\\\UniTask\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vlad1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.DOTween.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.DOTween.csproj",
+        "projectName": "UniTask.DOTween",
+        "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.DOTween.csproj",
+        "packagesPath": "C:\\Users\\vlad1\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Temp\\obj\\\\UniTask.DOTween\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vlad1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.Linq.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.Linq.csproj",
+        "projectName": "UniTask.Linq",
+        "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.Linq.csproj",
+        "packagesPath": "C:\\Users\\vlad1\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Temp\\obj\\\\UniTask.Linq\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vlad1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.TextMeshPro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.TextMeshPro.csproj",
+        "projectName": "UniTask.TextMeshPro",
+        "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.TextMeshPro.csproj",
+        "packagesPath": "C:\\Users\\vlad1\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\Temp\\obj\\\\UniTask.TextMeshPro\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vlad1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj": {
+                "projectPath": "c:\\Users\\vlad1\\OneDrive\\Рабочий стол\\IZHV_E6\\UniTask.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
